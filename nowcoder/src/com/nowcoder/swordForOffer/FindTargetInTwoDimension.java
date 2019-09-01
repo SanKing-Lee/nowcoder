@@ -14,6 +14,7 @@ public class FindTargetInTwoDimension {
     public static void main(String[] args){
         int[][] a = {{1,2,3,4}, {2,3,4,5}, {3,4,5,6}, {4,5,6,7}};
         System.out.println(Find2(6, a));
+        System.out.println("hello world!");
     }
 
     public static boolean Find(int target, int[][] array){
