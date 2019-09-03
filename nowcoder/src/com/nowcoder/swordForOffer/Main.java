@@ -3,6 +3,7 @@ package com.nowcoder.swordForOffer;
 public class Main {
     public static void main(String[] args)
     {
-        ReverseList.TestReverseList();
+//        ReverseList.TestReverseList();
+        MergeList.TestMergeList();
     }
 }
